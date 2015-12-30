@@ -3,7 +3,6 @@
 Below a list of user contributed **rofi** themes.
 
 # android_notification.theme
-by 
 
 ## Screenshot
 
@@ -23,7 +22,6 @@ rofi.color-urgent: #273238, #ff1844, #273238, #394249, #ff1844
 ~~~
 
 # blor.theme
-by 
 
 ## Screenshot
 
@@ -50,7 +48,6 @@ rofi.separator-style:                solid
 ~~~
 
 # blue.theme
-by 
 
 ## Screenshot
 
@@ -75,7 +72,6 @@ rofi.color-window:                   argb:ee0060a0, #00b0ef,#00b0ef
 ~~~
 
 # c64.theme
-by 
 
 ## Screenshot
 
@@ -95,7 +91,6 @@ rofi.color-urgent: #0039ff, #ff7047, #0039ff, #4f80ff, #ff7047
 ~~~
 
 # glue_pro_blue.theme
-by 
 
 ## Screenshot
 
@@ -115,7 +110,6 @@ rofi.color-urgent: #393939, #f3843d, #393939, #268bd2, #ffc39c
 ~~~
 
 # lb.theme
-by 
 
 ## Screenshot
 
@@ -143,7 +137,6 @@ rofi.separator-style:                dash
 ~~~
 
 # purple.theme
-by 
 
 ## Screenshot
 
@@ -170,7 +163,6 @@ rofi.separator-style:                dash
 ~~~
 
 # solarized_alternate.theme
-by 
 
 ## Screenshot
 
@@ -187,7 +179,6 @@ rofi.color-urgent: #002b37, #da4281, #003643, #008ed4, #890661
 ~~~
 
 # solarized.theme
-by 
 
 ## Screenshot
 
