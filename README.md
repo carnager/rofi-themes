@@ -21,6 +21,7 @@ rofi.color-active: #273238, #80cbc4, #273238, #394249, #80cbc4
 rofi.color-urgent: #273238, #ff1844, #273238, #394249, #ff1844
 ~~~
 
+
 # blor.theme
 
 ## Screenshot
@@ -47,6 +48,7 @@ rofi.color-window:                   argb:ee222222,  #FAC863 ,  #FAC863
 rofi.separator-style:                solid
 ~~~
 
+
 # blue.theme
 
 ## Screenshot
@@ -71,6 +73,7 @@ rofi.color-active:                   argb:00000000, #a0ffa0, argb:00000000, #a0f
 rofi.color-window:                   argb:ee0060a0, #00b0ef,#00b0ef
 ~~~
 
+
 # c64.theme
 
 ## Screenshot
@@ -90,6 +93,7 @@ rofi.color-active: #0039ff, #68ba50, #0039ff, #4f80ff, #68ba50
 rofi.color-urgent: #0039ff, #ff7047, #0039ff, #4f80ff, #ff7047
 ~~~
 
+
 # glue_pro_blue.theme
 
 ## Screenshot
@@ -108,6 +112,7 @@ rofi.color-normal: #393939, #ffffff, #393939, #268bd2, #ffffff
 rofi.color-active: #393939, #268bd2, #393939, #268bd2, #205171
 rofi.color-urgent: #393939, #f3843d, #393939, #268bd2, #ffc39c
 ~~~
+
 
 # lb.theme
 
@@ -136,6 +141,7 @@ rofi.color-window:                   argb:ee333333, #1aa,#1aa
 rofi.separator-style:                dash
 ~~~
 
+
 # purple.theme
 
 ## Screenshot
@@ -162,6 +168,7 @@ rofi.color-window:                   #2f1e2e, argb:36ef6155, argb:2fef6155
 rofi.separator-style:                dash
 ~~~
 
+
 # solarized_alternate.theme
 
 ## Screenshot
@@ -177,6 +184,7 @@ rofi.color-normal: #002b37, #819396, #003643, #008ed4, #ffffff
 rofi.color-active: #002b37, #008ed4, #003643, #008ed4, #66c6ff
 rofi.color-urgent: #002b37, #da4281, #003643, #008ed4, #890661
 ~~~
+
 
 # solarized.theme
 
@@ -196,4 +204,5 @@ rofi.color-normal: #002b37, #819396, #002b37, #003642, #819396
 rofi.color-active: #002b37, #008ed4, #002b37, #003642, #008ed4
 rofi.color-urgent: #002b37, #da4281, #002b37, #003642, #da4281
 ~~~
+
 

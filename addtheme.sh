@@ -9,11 +9,11 @@ main() {
     read -p "Give your Theme a Name: " name
     echo "Saving current rofi theme..."
     echo ""
-    echo "Filename:  Themes/${name}"
+    echo "Filename:  Themes/${name}.theme"
     echo "User:      ${user}"
     echo ""
     echo "Theme saved. You can now run 'update.sh' to update this repository"
-    echo "${theme}" > "Themes/${name}"
+    echo "${theme}" > "Themes/${name}.theme"
     cd "${currentdir}"
 }
 
