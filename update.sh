@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
+currentdir="$(pwd)"
+rofi_themes_dir="$(dirname $0)"
+
+cd "${rofi_themes_dir}"
 
 git submodule update --init
 
@@ -47,5 +51,8 @@ do
     echo ""                                 >> README.md
 done
 
-
 git add README.md
+
+cd "${currentdir}"
+
+
